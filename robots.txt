@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ksa2ol.shadowdiary.com/sitemap.xml
